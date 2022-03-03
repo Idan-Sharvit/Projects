@@ -1,0 +1,7 @@
+########## READ ME FIRST! ##########
+!!! IT IS RECOMMENDED TO CREATE A NEW EMAIL IN ORDER TO TRY THIS PROGRAM !!!
+1. Make your the email you send it from have low protection through the email settings.
+2. Fix the birthday date to one of the people in the birthday.csv file.
+3. Choose the names you want in the birthday.csv file.
+4. Enter your email and password in the main.py file.
+
